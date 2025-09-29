@@ -10,8 +10,6 @@ This project replicates common Tier 1 / Tier 2 Help Desk tasks including **Activ
 - Windows 10 client integration
 - Group Policy Objects (GPO) for security & permissions
 - User account management (password resets, group assignments)
-- Printer & shared resource setup
-- PowerShell automation for IT tasks
 
 ---
 
